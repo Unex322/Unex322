@@ -22,12 +22,10 @@ I like
 
 ### You can contact me:
 
-<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" /> 
-<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968835.png" /> 
-<img align="left" alt="Facebook" width="26px" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" /> 
+[<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" />](https://t.me/unex322)
+[<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968835.png" />](https://vk.com/id88177986)
+[<img align="left" alt="Facebook" width="26px" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" />](https://www.facebook.com/profile.php?id=100090766280374) 
 
-[telegram]: https://t.me/unex322
-[vk]: https://vk.com/id88177986
-[facebook]: https://www.facebook.com/profile.php?id=100090766280374
+
 
 
