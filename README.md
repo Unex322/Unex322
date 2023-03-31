@@ -1,6 +1,6 @@
 ### Hello, I'm Sergey Koshman
 
-### Junior developer from Yekaterinburg. I have been programming since December 2022.
+### Developer from Yekaterinburg. I have been programming since December 2022.
 
 I like
 - :running: running
