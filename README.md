@@ -2,10 +2,6 @@
 
 ### Python Developer from Yekaterinburg.
 
-I like
-- :running: running
-- :books: books
-- :art: art
 
 
 
